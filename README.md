@@ -64,15 +64,7 @@ A fan-made interactive guide with character and Titan profiles, favorites, local
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Jesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicho-boi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicho-boi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🤝 Let's Connect
 
