@@ -4,7 +4,7 @@
 
 ### Web Developer • Mobile Developer • Data Enthusiast
 
-I’m a Computer Science student from the Philippines who enjoys turning ideas into useful, interactive, and user-friendly digital experiences.
+I’m a Computer Science graduate from La Salle University, Ozamiz City, Philippines, who enjoys turning ideas into useful, interactive, and user-friendly digital experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nicho--boi-181717?style=for-the-badge&logo=github)](https://github.com/nicho-boi)
 
