@@ -37,12 +37,6 @@ A fan-made interactive guide with character and Titan profiles, favorites, local
 
 `Flutter` `Dart` `Provider` `Shared Preferences` `Material Design`
 
-### [Personal Portfolio](https://github.com/nicho-boi/portfolio-alicando)
-
-A modern and responsive portfolio website showcasing my background, technical skills, projects, and creative work.
-
-`Next.js` `React` `JavaScript` `Tailwind CSS`
-
 ## 🛠️ Tech Stack
 
 ### Languages
