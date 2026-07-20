@@ -12,7 +12,7 @@ I’m a Computer Science graduate from La Salle University, Ozamiz City, Philipp
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Computer Science student, graduating in 2026
+- 🎓 Bachelor of Science in Computer Science graduate from La Salle University, Ozamiz City
 - 🌱 Currently improving my full-stack web, mobile, and data analysis skills
 - 🎨 Interested in UI/UX, responsive interfaces, and practical software solutions
 - 📍 Based in Ozamiz City, Philippines
