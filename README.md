@@ -20,7 +20,6 @@ I’m a Computer Science graduate from La Salle University, Philippines, who enj
 ## 🚀 Featured Projects
 
 ### [SunnyBooth]([https://github.com/nicho-boi/SunnyBooth](https://github.com/nicho-boi/SunnyBooth-Showcase))
-### [SunnyBooth]()
 
 A playful, cat-themed browser photobooth for capturing, uploading, customizing, and exporting photo strips. It includes live webcam capture, countdown controls, responsive previews, and high-resolution Canvas exports.
 
