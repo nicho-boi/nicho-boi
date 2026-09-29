@@ -13,8 +13,9 @@ I’m a Computer Science graduate from La Salle University in the Philippines, p
 ## 👨‍💻 About Me
 
 - 🎓 BS Computer Science graduate from La Salle University, Ozamiz City
-- 🌱 Currently improving my full-stack web, mobile, and data analysis skills
-- 🎨 Interested in UI/UX, responsive interfaces, and practical software solutions
+- 💻 Web Developer specializing in full-stack development and responsive applications
+- 🤖 AI Automation Developer building intelligent workflows, AI agents, and API integrations
+- ⚙️ Passionate about creating practical solutions that streamline processes and help businesses work smarter
 - 📍 Philippines
 
 ## 🚀 Featured Projects
