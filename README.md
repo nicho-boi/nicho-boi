@@ -33,7 +33,7 @@ The system connects multiple research services through n8n and APIs, with Supaba
 
 `Next.js` `React` `TypeScript` `n8n` `Claude Code` `Apify` `OpenAI` `Tavily` `Supabase` `REST APIs` `Webhooks`
 
-[View Automation](https://nicho-portfolio-two.vercel.app/projects/automation-systems/baip-n8n-backend.png) • [View Dashboard](https://nicho-portfolio-two.vercel.app/projects/automation-systems/baip-dashboard.png) • [Loom Walkthrough](https://www.loom.com/share/6ce9af0b14424db69a0e2d971a1ec7b8)
+[View Automation](https://nicho-portfolio-two.vercel.app/projects/automation-systems/baip-n8n-backend.png) • [View Dashboard](https://nicho-portfolio-two.vercel.app/projects/automation-systems/baip-dashboard.png) •
 
 > Professional project. Client-sensitive information and source code are not publicly shared.
 
