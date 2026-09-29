@@ -2,7 +2,7 @@
 
 # Hi, I'm Jesper Nicho Alicando 👋
 
-### Generative AI Engineer | Web & Mobile Developer | Data Analyst
+### Generative AI Engineer | AI Automation Specialist | Web & Mobile Developer | Data Analyst
 
 I’m a Computer Science graduate from La Salle University, Philippines, who enjoys turning ideas into useful, interactive, and user-friendly digital experiences.
 
