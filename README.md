@@ -4,7 +4,7 @@
 
 ### Generative AI Engineer | AI Automation Specialist | Web Developer | Data Analyst
 
-I’m a Computer Science graduate from La Salle University, Philippines, who enjoys turning ideas into useful, interactive, and user-friendly digital experiences.
+I’m a Computer Science graduate from La Salle University in the Philippines, passionate about building AI-powered automations and digital solutions that simplify workflows, solve real-world problems, and help businesses work smarter.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nicho--boi-181717?style=for-the-badge&logo=github)](https://github.com/nicho-boi)
 
